@@ -10,6 +10,9 @@ I MESG Done initializing trim files for module 'repro'
 I MESG Resetting the 'clingo-api' module
 I MESG Re-initializing trim files for module 'clingo-api'
 I MESG Done initializing trim files for module 'clingo-api'
+I MESG Resetting the 'clingo-runtime' module
+I MESG Re-initializing trim files for module 'clingo-runtime'
+I MESG Done initializing trim files for module 'clingo-runtime'
 I MESG Resetting the 'python-dev' module
 I MESG Re-initializing trim files for module 'python-dev'
 I MESG Done initializing trim files for module 'python-dev'

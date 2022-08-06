@@ -1,4 +1,5 @@
 
+repro.require clingo-runtime master ${REPROS_DEV}
 repro.require python-dev master ${REPROS_DEV} --make-default
 
 python3 -m pip install --user --upgrade clingo
