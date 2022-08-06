@@ -14,6 +14,9 @@ I MESG Done initializing trim files for module 'clingo-runtime'
 I MESG Initializing module 'python-dev'
 I MESG Initializing trim files for module 'python-dev'
 I MESG Done initializing trim files for module 'python-dev'
+I MESG Initializing module 'jupyter-service'
+I MESG Initializing trim files for module 'jupyter-service'
+I MESG Done initializing trim files for module 'jupyter-service'
 I MESG Done initializing modules
 I MESG Ensuring that the REPRO target mapping file exists (/mnt/clingo-api/.repro/repro-targets)
 I MESG Services not being started now because REPRO_SERVICES_STARTUP is not set to 'auto'

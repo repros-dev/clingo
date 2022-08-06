@@ -4,6 +4,9 @@ REPRO_IMAGE_TAG=latest
 
 PARENT_IMAGE=cirss/clingo-api-parent:latest
 
+REPRO_DOCKER_OPTIONS=-p 8888:8888
+
+
 image:                  build-image   ## 
 start:                  start-repro   ## 
 

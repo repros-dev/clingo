@@ -7,6 +7,6 @@ RUN bash /repro/dist/setup
 
 USER repro
 
-RUN repro.require clingo-api exports
+RUN repro.require clingo-api exports --jupyter
 
 CMD  /bin/bash -il
