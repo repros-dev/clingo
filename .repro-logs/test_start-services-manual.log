@@ -5,8 +5,14 @@ I MESG Initializing modules
 I MESG Initializing module 'repro'
 I MESG Initializing trim files for module 'repro'
 I MESG Done initializing trim files for module 'repro'
+I MESG Initializing module 'clingo-api'
+I MESG Initializing trim files for module 'clingo-api'
+I MESG Done initializing trim files for module 'clingo-api'
+I MESG Initializing module 'python-dev'
+I MESG Initializing trim files for module 'python-dev'
+I MESG Done initializing trim files for module 'python-dev'
 I MESG Done initializing modules
-I MESG Ensuring that the REPRO target mapping file exists (/mnt/repro-template/.repro/repro-targets)
+I MESG Ensuring that the REPRO target mapping file exists (/mnt/clingo-api/.repro/repro-targets)
 I MESG Services not being started now because REPRO_SERVICES_STARTUP is not set to 'auto'
 I MESG Done initializing REPRO state
 I MESG Starting services now because REPRO_SERVICES_STARTUP set to 'manual'

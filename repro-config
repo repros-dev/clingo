@@ -1,6 +1,8 @@
-REPRO_NAME=repro-template
+REPRO_NAME=clingo-api
 REPRO_DOCKER_ORG=cirss
 REPRO_IMAGE_TAG=latest
+
+PARENT_IMAGE=cirss/clingo-api-parent:latest
 
 image:                  build-image   ## 
 start:                  start-repro   ## 
