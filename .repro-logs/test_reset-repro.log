@@ -1,4 +1,6 @@
-I MESG Initialized REPRO logging system and macros
+I MESG Loaded repro logging functions
+I MESG Initialized repro logging system
+I MESG Loaded repro base functions
 I MESG Initializing REPRO session
 I MESG Building PATH variable
 I MESG Skipping rest of session initialization because REPRO_DEFER_INIT is set to 'true'
@@ -14,7 +16,7 @@ I MESG Resetting the 'python-dev' module
 I MESG Re-initializing trim files for module 'python-dev'
 I MESG Resetting the 'jupyter-service' module
 I MESG Re-initializing trim files for module 'jupyter-service'
-I MESG Copying /home/repro/repro-modules/jupyter-service-master/Makefile-base to the 'jupyter-service' trim directory (/mnt/clingo-api/.jupyter-service)
+I MESG Copying /home/repro/repro-modules/jupyter-service-master/base-makefile to the 'jupyter-service' trim directory (/mnt/clingo-api/.jupyter-service)
 I MESG Resetting the REPRO target mapping file (/mnt/clingo-api/.repro/repro-targets)
 I MESG Installing a default (empty) target mapping file to /mnt/clingo-api/.repro/repro-targets
-I MESG Mapping the 'start' target in the 'base' profile of the 'jupyter-service' module to the REPRO 'start-services' target
+I MESG Mapping the 'jupyter-service:base:start' target to the REPRO 'start-services' target

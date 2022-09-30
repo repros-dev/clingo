@@ -2,8 +2,8 @@ FROM cirss/clingo-api-parent:latest
 
 COPY exports /repro/exports
 
-ADD ${REPRO_DIST}/setup /repro/dist/
-RUN bash /repro/dist/setup
+ADD ${REPRO_DIST}/boot-setup /repro/dist/
+RUN bash /repro/dist/boot-setup
 
 USER repro
 
